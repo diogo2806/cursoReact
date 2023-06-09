@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "react-refresh": "^0.14.0",
+    "react-refresh-webpack-plugin": "^0.1.0"
+  }
+}
